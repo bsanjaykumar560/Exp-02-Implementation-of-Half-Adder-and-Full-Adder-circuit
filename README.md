@@ -36,19 +36,82 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+
+HALF ADDER:
+
+
+
+![Exp3 ha code](https://github.com/bsanjaykumar560/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145954153/ac5e2479-677d-4c54-9e93-a9d4baf0853e)
+
+
+FULL HADDER:
+
+
+
+![Exp3 fa code](https://github.com/bsanjaykumar560/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145954153/37419597-92be-47d6-ac58-b98f609c2060)
+
+
+OUTPUT:
+
+
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+Developed by: B.SANJAY KUMAR
+RegisterNumber:  23004077
 
-### Output:
+
+
 ### RTL
+
+
+
+HALF ADDER:
+
+
+![Exp3 ha RTL diagram](https://github.com/bsanjaykumar560/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145954153/ca588c59-4d39-4834-9317-6b5855cb8ceb)
+
+
+
+FULL ADDER:
+
+
+
+![Exp3 fa RTL diagram](https://github.com/bsanjaykumar560/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145954153/36d38722-cb42-4c15-be95-67a742bf8dc5)
+
+
+
+
 ### TIMING DIAGRAM
 
 
+HALF ADDER:
+
+
+![exp3 ha wave](https://github.com/bsanjaykumar560/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145954153/817ecc6a-fd08-4a8f-b958-116963de1a15)
+
+
+
+FULL ADDER:
+
+
+![exp3 ha wave](https://github.com/bsanjaykumar560/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145954153/12d4a318-b26a-458d-9c17-04ace22a1887)
+
+
+
+
+
 ### TRUTH TABLE 
+HALF ADDAER:
+
+
+![Exp3 truthtable (ha)](https://github.com/bsanjaykumar560/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145954153/38171564-456c-4090-a7a0-1f1a1a24f987)
+
+FULL HADDER:
+
+
+
+![Exp3 truthtable (fa)](https://github.com/bsanjaykumar560/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145954153/f9dff54e-cb75-4db8-b6ed-635d969ccd9d)
+
 
 ### Result:
